@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" style="border-radius: 50" src="https://avatars.githubusercontent.com/u/105879489?v=4" />
+   <img align="center" width="200" style="border-radius: 50" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ42KFoGls1pTpeFgMd9go2l8CLHTBR5WOxhP9efw5DMNQhcAKOoWEwh9WblKh-oOz7-0_tZEPayAA25qqNAxVXXUUsA1OniIg6gO832xdu2ClfxHIRYWQqdCjHOac1BznurVvyVJ5ZD6Rjszvf6S_9qkqphHeTfDPTSd-xcnxHfp7MVxnhKAJOgp3-G0/s915/jhordy.png" />
    <h3 align="center">¡Jelou 👋! Soy JhorDev 👨🏻‍💻</h3>
 </p>
 
